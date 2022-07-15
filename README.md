@@ -1,4 +1,4 @@
-![Frontend Developer](![Frontend Developer](https://i.ibb.co/Q9tfnXG/Screenshot-78.jpg))
+![Frontend Developer](https://i.ibb.co/FKZ339N/Screenshot-79.jpg)
 ### Hi, I'm Abu Bakar
 #### Frontend Developer
 
