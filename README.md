@@ -7,6 +7,6 @@
 ✔ HTML5 / CSS3 / Tailwind / Bootstrap. <br/>
 ✔ JavaScript  /React JS. <br/>
 ✔ Node JS / Mongodb. <br/>
-
+## Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abubakarsiddique10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-abu-bakar-a283b4241//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.bakkar.129357)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abu-bakar-portfolio.netlify.app/)  
 
