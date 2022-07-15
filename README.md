@@ -1,4 +1,4 @@
-![Frontend Developer](https://i.ibb.co/7CX6HCV/Untitled-design-2-removebg-preview-1.png)
+![Frontend Developer](https://i.ibb.co/4S6vBgL/Screenshot-46.jpg)
 ### Hi, I'm Abu Bakar
 ## Frontend Developer
 
