@@ -1,4 +1,4 @@
-![Frontend Developer](https://i.ibb.co/ggCc68m/Screenshot-56.png)
+![Frontend Developer](https://i.ibb.co/mJtyhrL/Screenshot-55.png)
 ### Hi, I'm Abu Bakar.
 
 ###### Hi! My name is Muhammad Abu Bakar.I'm a Frontend Developer, and I'm very passionate and dedicated to my work. With 2 years of experience as a professional Frontend Developer, I have acquired the skills and knowledge necessary to make your project a success.
